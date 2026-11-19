@@ -117,7 +117,8 @@ tp7-crud/
     ├── etudiants.png
     ├── formations.png
     ├── modules.png
-    └── formulaire.png
+    └── formulaire.jpeg
+    
 ```
 
 ## 7. Installation et lancement du projet
