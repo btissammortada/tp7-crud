@@ -4,7 +4,6 @@
 
 Dans le cadre du TP7, j'ai réalisé une application web de gestion d'un centre de formation.
 
-<<<<<<< HEAD
 Cette application permet de gérer les étudiants, les formations et les modules à travers une interface simple et facile à utiliser.
 
 L'objectif de ce TP est de pratiquer PHP, PDO et MySQL et de comprendre comment réaliser les opérations CRUD (Ajouter, Afficher, Modifier et Supprimer).
@@ -38,12 +37,11 @@ L'objectif de ce TP est de pratiquer PHP, PDO et MySQL et de comprendre comment 
 - XAMPP : serveur local.
 - Visual Studio Code : éditeur de code.
 - Git et GitHub : gestion du projet.
->>>>>>> b6260294142b5fd507a0384d3f255afbf3edac4e
+
 
 ## 3. Fonctionnalités réalisées
 
 ### Gestion des étudiants
-<<<<<<< HEAD
 
 - Ajouter un étudiant.
 - Afficher la liste des étudiants.
@@ -52,31 +50,24 @@ L'objectif de ce TP est de pratiquer PHP, PDO et MySQL et de comprendre comment 
 - Ajouter un étudiant.
 - Afficher la liste des étudiants.
 - Modifier les informations.
->>>>>>> b6260294142b5fd507a0384d3f255afbf3edac4e
 - Supprimer un étudiant.
 - Associer un étudiant à une formation.
 
 ### Gestion des formations
-<<<<<<< HEAD
-
 - Ajouter une formation.
 - Afficher la liste des formations.
 =======
 - Ajouter une formation.
 - Afficher les formations.
->>>>>>> b6260294142b5fd507a0384d3f255afbf3edac4e
+
 - Modifier une formation.
 - Supprimer une formation.
 
 ### Gestion des modules
-<<<<<<< HEAD
-
 - Ajouter un module.
 - Afficher la liste des modules.
-=======
 - Ajouter un module.
 - Afficher les modules.
->>>>>>> b6260294142b5fd507a0384d3f255afbf3edac4e
 - Modifier un module.
 - Supprimer un module.
 - Associer un module à une formation.
@@ -115,7 +106,7 @@ Exemple de formulaire utilisé pour ajouter ou modifier les informations.
 
 ## 5. Base de données
 
-<<<<<<< HEAD
+
 **Nom de la base de données :** `tp7_crud`
 
 La base de données contient trois tables principales :
@@ -123,7 +114,7 @@ La base de données contient trois tables principales :
 Nom de la base de données : `tp7_crud`
 
 Elle contient trois tables principales :
->>>>>>> b6260294142b5fd507a0384d3f255afbf3edac4e
+
 
 - `formations`
 - `etudiants`
@@ -161,25 +152,18 @@ tp7-crud/
     ├── formations.png
     ├── modules.png
     └── formulaire.jpeg
-<<<<<<< HEAD
+
 ```
 
 ## 7. lancement du projet
 
  Ouvrir le navigateur et accéder à l'adresse suivante :
-=======
-    
-```
-
-## 7. Installation et lancement du projet
->>>>>>> b6260294142b5fd507a0384d3f255afbf3edac4e
 
 http://localhost/tp7-crud/
 
 
-<<<<<<< HEAD
----
-=======
->>>>>>> b6260294142b5fd507a0384d3f255afbf3edac4e
+
+
+
 
 **TP7 – PHP, PDO et MySQL**
