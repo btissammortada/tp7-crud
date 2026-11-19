@@ -19,10 +19,10 @@ L'objectif de ce TP est de pratiquer PHP, PDO et MySQL et de comprendre comment 
 - **XAMPP** : serveur local.
 - **Visual Studio Code** : éditeur de code.
 - **Git et GitHub** : gestion et partage du projet.
-=======
+
 Cette application permet de gérer les étudiants, les formations et les modules à travers une interface simple.
 
-L'objectif de ce TP est de pratiquer PHP, PDO et MySQL et de comprendre comment réaliser les opérations CRUD.
+
 
 
 
@@ -46,7 +46,6 @@ L'objectif de ce TP est de pratiquer PHP, PDO et MySQL et de comprendre comment 
 - Ajouter un étudiant.
 - Afficher la liste des étudiants.
 - Modifier les informations d'un étudiant.
-=======
 - Ajouter un étudiant.
 - Afficher la liste des étudiants.
 - Modifier les informations.
@@ -56,10 +55,8 @@ L'objectif de ce TP est de pratiquer PHP, PDO et MySQL et de comprendre comment 
 ### Gestion des formations
 - Ajouter une formation.
 - Afficher la liste des formations.
-=======
 - Ajouter une formation.
 - Afficher les formations.
-
 - Modifier une formation.
 - Supprimer une formation.
 
@@ -110,7 +107,6 @@ Exemple de formulaire utilisé pour ajouter ou modifier les informations.
 **Nom de la base de données :** `tp7_crud`
 
 La base de données contient trois tables principales :
-=======
 Nom de la base de données : `tp7_crud`
 
 Elle contient trois tables principales :
