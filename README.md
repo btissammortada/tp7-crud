@@ -85,19 +85,19 @@ tp7-crud/
 ├── includes/
 │   └── functions.php
 │
-├── formations/
+├── formation/
 │   └── index.php
 │   └── create.php
 │   └── edit.php
 │   └── delete.php
 │
-├── etudiants/
+├── etudiant/
 │   └── index.php 
 │   └── create.php
 │   └── edit.php
 │   └── delete.php
 │
-├── modules/
+├── module/
 │   └── index.php 
 │   └── create.php
 │   └── edit.php
