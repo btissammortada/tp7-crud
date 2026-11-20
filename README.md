@@ -31,39 +31,41 @@ Pour chaque entité, j'ai réalisé les quatre opérations CRUD :
 - **Create :** ajouter un étudiant en choisissant sa formation.
 ![CRUD formations](capture/C-etudiants.jpeg)
 - **Read :** afficher la liste des étudiants avec le nom de leur formation.
+![CRUD formations](capture/crud-etudiants.png)
 - **Update :**  modifier les informations d'un étudiant.
 ![CRUD formations](capture/U-etudiants.jpeg)
 - **Delete :** supprimer un étudiant.
 ![CRUD formations](capture/D1-etudiants.png)
 ![CRUD formations](capture/D2-etudiants.png)
 ------
-![CRUD formations](capture/crud-etudiants.png)
+
 
 ### 4.2 Gestion des formation
 
 - **Create :** ajouter une nouvelle formation.
 ![CRUD étudiants](capture/C-formations.jpeg)
 - **Read :** afficher la liste des formations.
+![CRUD étudiants](capture/crud-formations.png)
 - **Update :**modifier les informations d'une formation.
 ![CRUD étudiants](capture/U-formations.jpeg)
 - **Delete :** supprimer une formation.
 ![CRUD étudiants](capture/D1-formations.png)
 ![CRUD étudiants](capture/D2-formations.png)
 ----
-![CRUD étudiants](capture/crud-formations.png)
 
 ### 4.3 Gestion des modules
 
 - **Create :** ajouter un module en choisissant sa formation.
 ![CRUD modules](capture/C-modules.jpeg)
 - **Read :** afficher la liste des modules avec le nom de leur formation.
+![CRUD modules](capture/crud-modules.png)
 - **Update :** modifier les informations d'un module.
 ![CRUD modules](capture/U-modules.jpeg)
 - **Delete :** supprimer un module.
 ![CRUD modules](capture/D1-modules.png)
 ![CRUD modules](capture/D2-modules.png)
 ----- 
-![CRUD modules](capture/crud-modules.png)
+
 
 ## 5. Conclusion
 
@@ -74,31 +76,34 @@ Ce TP m'a permis de comprendre comment connecter une application PHP à une base
 tp7-crud/
 │
 ├── index.php
-├── crud.php
 ├── README.md
 │
 ├── database/
-│   └── connexion.php
+│   └── connexion.php 
+│   └── tp7_crud.sql
 │
 ├── includes/
 │   └── functions.php
 │
 ├── formations/
 │   └── index.php
+│   └── create.php
+│   └── edit.php
+│   └── delete.php
 │
 ├── etudiants/
-│   └── index.php
+│   └── index.php 
+│   └── create.php
+│   └── edit.php
+│   └── delete.php
 │
 ├── modules/
-│   └── index.php
+│   └── index.php 
+│   └── create.php
+│   └── edit.php
+│   └── delete.php
 │
-└── captures/
-    ├── accueil.png
-    ├── etudiants.png
-    ├── formations.png
-    ├── modules.png
-    └── formulaire.jpeg
-
+└── capture/
 ```
 
 ## 7. lancement du projet
