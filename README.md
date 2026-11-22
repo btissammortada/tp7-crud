@@ -10,7 +10,7 @@ L'application permet de gérer trois entités : les formations, les étudiants e
 
 Le diagramme représente les relations entre les trois tables.
 
-![Diagramme de la base de données](capture/DIA.png)
+![Diagramme de la base de données](capture/diag.png)
 
 ## 3. Création de la base de données
 
